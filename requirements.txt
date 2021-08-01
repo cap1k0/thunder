@@ -1,0 +1,6 @@
+# Dependencies
+Flask==2.0.1
+
+
+# Dev dependencies
+cefpython3==66.1
