@@ -6,3 +6,7 @@
 Python GUI Based on HTML and Javascript
 
 we  are going to develop something more efficient than Electron app.
+
+just need to 
+
+pip install -r requirements.txt 
